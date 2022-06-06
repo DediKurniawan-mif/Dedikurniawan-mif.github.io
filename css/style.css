@@ -79,6 +79,8 @@ html {
 
 section .gambar {
   border-radius: 10px;
+  width: 5px;
+  height: 5px;
 }
 
 section .ucapan {
