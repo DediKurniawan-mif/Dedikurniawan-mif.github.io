@@ -2,7 +2,7 @@
 Web Bucin V2 khusus buat orang tercinta &amp; tersayang.
 
 # Demo Site
- <a href="https://DediKurniawan-mif.github.io/WebBucin-V2/">https://DediKurniawan-mif.github.io/WebBucin-V2-Min/</a>
+ <a href="https://DediKurniawan-mif.github.io/Dedikurniawan-mif.github.io/">https://DediKurniawan-mif.github.io/Dedikurniawan-mif.github.io/</a>
 
 # Let's connect with me!
 <p>
